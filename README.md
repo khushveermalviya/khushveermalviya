@@ -1,4 +1,4 @@
-<p align= "left"> <img src="https://i.giphy.com/VbnUQpnihPSIgIXuZv.webp"  width="940" height="540"/> </p>
+<p align= "left"> <img src="https://i.giphy.com/VbnUQpnihPSIgIXuZv.webp"  width="500" height="400"/> </p>
 
 <h1 align="center">Hi 👋, I'm Khushveer Malviya</h1>
 <h3 align="center">I am Khushveer Malviya more details are below</h3>
