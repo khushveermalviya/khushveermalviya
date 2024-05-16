@@ -1,9 +1,7 @@
-<p align= "left"> <img src="https://i.giphy.com/VbnUQpnihPSIgIXuZv.webp"  width="500" height="400"/> </p>
+<p align= "center"> <img src="https://i.giphy.com/VbnUQpnihPSIgIXuZv.webp"  width="500" height="400"/> </p>
 
-<h1 align="center">Hi 👋, I'm Khushveer Malviya</h1>
+<h4 align="center">Hi 👋, I'm Khushveer Malviya</h4>
 <h3 align="center">I am Khushveer Malviya more details are below</h3>
-![Profile Views](https://komarev.com/ghpvc/?username=khushveermalviya&label=Profile%20views&color=0e75b6&style=flat)
-
 
 - 👨‍💻 All of my projects are available at [https://terminal-portfolio-blond.vercel.app/](https://terminal-portfolio-blond.vercel.app/)
 
@@ -31,7 +29,7 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/@khushveermalviya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@khushveermalviya" height="30" width="40" /></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushveermalviya&label=Profile%20views&color=0e75b6&style=flat" alt="khushveermalviya" /> </p>
-
+<p align= "center"> <img src="https://i.giphy.com/juSCTzqDAV1Xq.webp"  width="500" height="400"/> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushveermalviya" alt="khushveermalviya" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/khushveermalvi" target="blank"><img src="https://img.shields.io/twitter/follow/khushveermalvi?logo=twitter&style=for-the-badge" alt="khushveermalvi" /></a> </p>
