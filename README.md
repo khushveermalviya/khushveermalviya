@@ -1,4 +1,4 @@
-<p align= "left"> <img src="[https://images.app.goo.gl/CrYgh16nR97nzGfu8](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamx4aXpjbHZienJpZXU4dWdyeHNyMmg4MGQyMzZzbXZuYjRxYzg5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif)"  width="940" height="340"/> </p>
+<p align= "left"> <img src="https://i.giphy.com/VbnUQpnihPSIgIXuZv.webp"  width="940" height="340"/> </p>
 
 <h1 align="center">Hi 👋, I'm Khushveer Malviya</h1>
 <h3 align="center">I am Khushveer Malviya more details are below</h3>
