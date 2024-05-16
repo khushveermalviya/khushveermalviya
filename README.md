@@ -1,17 +1,9 @@
+<p align= "left"> <img src="https://images.app.goo.gl/CrYgh16nR97nzGfu8"  width="940" height="340"/> </p>
+
 <h1 align="center">Hi 👋, I'm Khushveer Malviya</h1>
 <h3 align="center">I am Khushveer Malviya more details are below</h3>
-![Coding](https://example.com/your-image.jpg)
+![Profile Views](https://komarev.com/ghpvc/?username=khushveermalviya&label=Profile%20views&color=0e75b6&style=flat)
 
-
-
-
-- 🔭 I’m currently working on **E-commerse site**
-
-- 🌱 I’m currently learning **socket.io,redux,rust,java,blockchain**
-
-- 👯 I’m looking to collaborate on **with buddies**
-
-- 🤝 I’m looking for help with **Internship**
 
 - 👨‍💻 All of my projects are available at [https://terminal-portfolio-blond.vercel.app/](https://terminal-portfolio-blond.vercel.app/)
 
